@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\bin\Release\MyProject.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\bin\Release\MyProject.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\MyProject.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\MyProject.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\MyProject.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\MyProject.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\MyProject\obj\Release\MyProject.pdb
+C:\VS2008Project\MyProject\MyProject\obj\Release\MyProject.exe
+C:\VS2008Project\MyProject\MyProject\obj\Release\MyProject.pdb
+C:\VS2008Project\MyProject\MyProject\bin\Release\MyProject.exe
+C:\VS2008Project\MyProject\MyProject\bin\Release\MyProject.pdb
+C:\VS2008Project\MyProject\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\VS2008Project\MyProject\MyProject\obj\Release\MyProject.Form1.resources
+C:\VS2008Project\MyProject\MyProject\obj\Release\MyProject.Properties.Resources.resources
+C:\VS2008Project\MyProject\MyProject\obj\Release\MyProject.csproj.GenerateResource.Cache
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.exe
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.pdb
+C:\CSharpProject\MyProject\MyProject\bin\Release\MyProject.exe
+C:\CSharpProject\MyProject\MyProject\bin\Release\MyProject.pdb
+C:\CSharpProject\MyProject\MyProject\obj\Release\ResolveAssemblyReference.cache
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.Properties.Resources.resources
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.csproj.GenerateResource.Cache
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.PinTool.resources
+C:\CSharpProject\MyProject\MyProject\obj\Release\MyProject.ksAddrFilter.resources

@@ -1,0 +1,17 @@
+C:\VS2008Project\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\VS2008Project\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\VS2008Project\MyProject\MyProject\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008Project\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+C:\VS2008Project\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\VS2008Project\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\VS2008Project\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\VS2008Project\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\CSharpProject\MyProject\MyProject\bin\Debug\MyProject.exe
+C:\CSharpProject\MyProject\MyProject\bin\Debug\MyProject.pdb
+C:\CSharpProject\MyProject\MyProject\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.exe
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.ksAddrFilter.resources
+C:\CSharpProject\MyProject\MyProject\obj\Debug\MyProject.PinTool.resources
